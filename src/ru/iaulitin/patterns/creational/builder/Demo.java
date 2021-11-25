@@ -9,5 +9,6 @@ public class Demo {
                 .color(Color.GREY)
                 .build();
 
+        System.out.println(cat);
     }
 }
